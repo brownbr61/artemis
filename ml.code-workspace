@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+		"editor.codeActionsOnSave": {
+		
+		},
+		"editor.cursorBlinking": "phase",
+		"editor.cursorWidth": 2,
+		"editor.formatOnPaste": false,
+		"editor.acceptSuggestionOnEnter": "off"
+	}
+}
